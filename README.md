@@ -18,10 +18,10 @@
  
   <div>
       <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: jean.carlos.torres@hotmail.com">
+    <a href = "mailto:jean.carlos.torres@hotmail.com">
       <img  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/jean-torres-53842b13b/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </div>
